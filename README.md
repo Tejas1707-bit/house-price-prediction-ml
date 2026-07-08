@@ -4,7 +4,7 @@
 A machine learning web app that predicts median house value for a California
 district using a scikit-learn `RandomForestRegressor`, deployed with Streamlit.
 
-**Live demo:** _add your Streamlit Cloud link here after deployment_
+**Live demo:**(https://house-price-prediction-ml-f4yn9qguxv8klzwytqj6eh.streamlit.app/)
 
 ---
 
