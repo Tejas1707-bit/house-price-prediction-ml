@@ -8,19 +8,19 @@ district using a scikit-learn `RandomForestRegressor`, deployed with Streamlit.
 
 ---
 
-## Features
+## Features:-
 - Interactive form for all 8 raw inputs (location, age, rooms, bedrooms,
   population, households, income, ocean proximity)
 - One-hot encoding handled automatically to match the model's training format
 - Instant price prediction with an interactive map showing the district location
 - Cached model loading for fast repeat predictions
 
-## Tech Stack
+## Tech Stack:-
 - **Model:** scikit-learn `RandomForestRegressor`
 - **Frontend/App:** Streamlit
 - **Data:** California Housing Prices dataset (Kaggle)
 
-## Project Structure
+## Project Structure:-
 ```
 streamlit_app/
 ├── app.py              # Streamlit application
