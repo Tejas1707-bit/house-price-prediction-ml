@@ -1,5 +1,5 @@
       HEAD
-# California House Price Predictor 🏠
+# California House Price Predictor:- 🏠
 
 A machine learning web app that predicts median house value for a California
 district using a scikit-learn `RandomForestRegressor`, deployed with Streamlit.
