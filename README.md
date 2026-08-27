@@ -16,8 +16,8 @@ district using a scikit-learn `RandomForestRegressor`, deployed with Streamlit.
 - Cached model loading for fast repeat predictions
 
 ## Tech Stack:-
-- **Model:** scikit-learn `RandomForestRegressor`
-- **Frontend/App:** Streamlit
+- **Model:**scikit-learn `RandomForestRegressor`
+- **Frontend/App:**Streamlit
 - **Data:** California Housing Prices dataset (Kaggle)
 
 ## Project Structure:-
@@ -261,7 +261,7 @@ Target Variable:
 
 ---
 
-## 📌 Future Improvements
+## 📌 Future Improvements:-
 
 - Hyperparameter tuning using GridSearchCV
 - Feature importance visualization
@@ -271,13 +271,13 @@ Target Variable:
 
 ---
 
-## 📄 License
+## 📄 License:-
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author:-
 
 **Tejas Shinde**
 
