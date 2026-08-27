@@ -229,7 +229,7 @@ python src/model_comparison.py
 
 ---
 
-## 📊 Machine Learning Models
+## 📊 Machine Learning Models:
 
 The following regression models are implemented:
 
