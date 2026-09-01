@@ -5,9 +5,7 @@ A machine learning web app that predicts median house value for a California
 district using a scikit-learn `RandomForestRegressor`, deployed with Streamlit.
 
 **Live demo:**(https://house-price-prediction-ml-f4yn9qguxv8klzwytqj6eh.streamlit.app/)
-
 ---
-
 ## Features:-
 - Interactive form for all 8 raw inputs (location, age, rooms, bedrooms,
   population, households, income, ocean proximity)
@@ -213,15 +211,15 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Run the Project
+## ▶️ Run the Project:-
 
-Train the model and generate predictions:
+Train the model and generate predictions
 
 ```bash
 python src/main.py
 ```
 
-To compare machine learning models:
+To compare machine learning models:-
 
 ```bash
 python src/model_comparison.py
@@ -229,7 +227,7 @@ python src/model_comparison.py
 
 ---
 
-## 📊 Machine Learning Models:
+## 📊 Machine Learning Models:-
 
 The following regression models are implemented:
 
@@ -241,7 +239,7 @@ Model performance is evaluated using **10-Fold Cross Validation** with **Root Me
 
 ---
 
-## 📈 Dataset Features
+## 📈 Dataset Features:-
 
 The dataset contains features such as:
 
